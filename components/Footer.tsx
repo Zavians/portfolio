@@ -36,6 +36,9 @@ const Footer = () => {
         <p className="md:text-base text-sm md:font-normal font-light">
           Copyright © 2024 Kenza Vianda
         </p>
+        <p className="md:text-base text-sm md:font-normal font-light">
+          Big Thanks to Adrian Hajdin
+        </p>
 
         <div className="flex items-center md:gap-3 gap-6">
           {socialMedia.map((info) => (
